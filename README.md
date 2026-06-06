@@ -12,6 +12,7 @@ This workshop covers foundational concepts and practical applications of Natural
 
 - Introduction to NLP and LLM fundamentals
 - Dictionary-based sentiment analysis [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/001_use_LM_dictionary.ipynb)
+- Extending a dictionary/word listusing embedding: Word2Vec and GloVe
 - Textual distance measures
 - Transformers and open-source LLMs
 - Fine-tuning open-source LLMs
