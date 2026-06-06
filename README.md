@@ -10,55 +10,17 @@ This workshop covers foundational concepts and practical applications of Natural
 
 ### Key Topics
 
-- Introduction to NLP fundamentals
-- Text preprocessing and cleaning
-- Sentiment analysis and opinion mining
-- Named entity recognition in financial texts
-- Topic modeling and document classification
-- Introduction to Large Language Models (LLMs)
-- Practical applications in accounting and financial research
-
-## Workshop Structure
-
-**Day 1:** Foundations of NLP
-- Core concepts and tools
-- Text data preparation
-- Basic NLP techniques
-
-**Day 2:** Advanced Applications & LLMs
-- Sentiment analysis and text classification
-- Working with Large Language Models
-- Case studies in finance and accounting
-
-## Getting Started
-
-### Prerequisites
-- Basic Python knowledge
-- Familiarity with data manipulation concepts
-- A text editor or IDE (VS Code, PyCharm, etc.)
-
-### Required Libraries
-- nltk
-- spacy
-- scikit-learn
-- pandas
-- numpy
-
-## Exercises
-
-Hands-on exercises are provided throughout the workshop to reinforce learning and develop practical skills in:
-- Data preparation and preprocessing
-- Building NLP models
-- Evaluating model performance
-- Interpreting results in financial contexts
-
+- Introduction to NLP and LLM fundamentals
+- Dictionary
+- Textual distance measures
+- Transformers and open-source LLMs
+- Fine-tuning open-source LLMs
+- Using frontier LLMs, RAG in combination of traditional NLP tools
 ## Resources
 
 Additional resources and materials will be provided during the workshop.
 
-## Contact
 
-For questions or inquiries about this workshop, please contact the University of Sheffield.
 
 ---
 
