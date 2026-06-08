@@ -16,8 +16,8 @@ This workshop covers foundational concepts and practical applications of Natural
 - Textual distance measures
 - Fine-tuning open-source LLMs [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/004_finetune_open_source_transformer_financial_sentiment.ipynb)
 - Using frontier LLMs, RAG in combination with traditional NLP tools
-&nbsp - Identify text on culture: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/005_innovation_culture_search_gemini.ipynb)
-&nbsp - Identifying triples, enhanced by RAG:  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/006_pseudo_analyst_report_rag_triples_teaching.ipynb)
+(1) Identify text on culture: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/005_innovation_culture_search_gemini.ipynb)
+(2) Identifying triples, enhanced by RAG:  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/006_pseudo_analyst_report_rag_triples_teaching.ipynb)
 
 ## Resources
 
