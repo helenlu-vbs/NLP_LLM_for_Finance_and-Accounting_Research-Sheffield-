@@ -15,7 +15,7 @@ This workshop covers foundational concepts and practical applications of Natural
 - Extending a dictionary/word list using word embedding: Word2Vec and GloVe [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/002_wordembedding_culture.ipynb)
 - Textual distance measures
 - Fine-tuning open-source LLMs [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/004_finetune_open_source_transformer_financial_sentiment.ipynb)
-- Using frontier LLMs, RAG in combination with traditional NLP tools  
+- Using frontier LLMs, RAG in combination with traditional NLP tools (1) Identify text on culture: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenlu-vbs/NLP_LLM_for_Finance_and-Accounting_Research-Sheffield-/blob/main/005_innovation_culture_search_gemini.ipynb)
 
 ## Resources
 
